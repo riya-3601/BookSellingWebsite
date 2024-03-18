@@ -13,12 +13,14 @@ BOOKTERING.com is an innovative online platform designed to revolutionize the bo
 ## Repository Contents
 This repository hosts the complete suite of the BOOKTERING.com application, encompassing both the front-end and back-end components. It includes:
 
-Frontend Customer: The user-facing interface for book exchange and purchases, built with Angular for a dynamic and responsive experience.
-  Link to customer Angular:https://github.com/riya-3601/customerangular    
-Frontend Admin: The administrative dashboard that provides control over the platform's content and user activities, also powered by Angular.
-  Link to admin Angular:https://github.com/riya-3601/bookteringangular
-Backend: A Node.js server application that handles all the logic, database operations, and API endpoints.
-  Link to node.js:https://github.com/riya-3601/bookteringnode
+**Frontend Customer:** The user-facing interface for book exchange and purchases, built with Angular for a dynamic and responsive experience.
+  - Link to customer Angular:https://github.com/riya-3601/customerangular
+  
+**Frontend Admin:** The administrative dashboard that provides control over the platform's content and user activities, also powered by Angular.
+  - Link to admin Angular:https://github.com/riya-3601/bookteringangular
+
+**Backend:** A Node.js server application that handles all the logic, database operations, and API endpoints.
+  - Link to node.js:https://github.com/riya-3601/bookteringnode
 
 ## Pre-requisites
 Prerequisites
