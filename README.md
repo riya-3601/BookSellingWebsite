@@ -6,7 +6,7 @@ BOOKTERING.com is an innovative online platform designed to revolutionize the bo
 ## Architecture
 **Angular:** Utilized Angular for front-end development to craft a responsive and dynamic user interface, ensuring an engaging and interactive experience for the users.
 
-**Node.js: ** Leveraged Node.js for the server-side logic  
+**Node.js:** Leveraged Node.js for the server-side logic  
 
 **MySQL:** MySQL for database management, providing a robust backend capable of handling high-volume transactions with efficiency and speed.
 
